@@ -3,7 +3,6 @@ export class Account {
     const {
       firstName,
       lastName,
-      username,
       email,
       password,
       birthdate,
@@ -16,10 +15,10 @@ export class Account {
     this.role = "client";
     this.balance = 0;
     this.transactions = [];
+    this.expenses = [];
 
     this.firstName = firstName;
     this.lastName = lastName;
-    this.username = username;
     this.email = email;
     this.password = password;
     this.birthdate = birthdate;
