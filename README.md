@@ -19,6 +19,16 @@ This project is intended to apply React concepts learned from discussions into p
 
 *localStorage* is also practiced to retain any updates and data manipulation after end of user session.
 
+## Technologies/Packages Used
+- Tailwindcss
+- DaisyUI
+- React
+- React Hot Toast
+- React Router
+- FontAwesome
+
+Images used are obtained from Unsplash
+
 ## ScreenShots
 ![image](https://user-images.githubusercontent.com/88828088/227800207-e5ef8c09-491d-402c-8e11-7c01b512e7c2.png)
 ![image](https://user-images.githubusercontent.com/88828088/227800393-85adac03-f073-4b9d-9e64-2c4ceb77591e.png)
